@@ -1,0 +1,26 @@
+{
+    "Treasure": {
+      "ID": "11",
+      "Region": "Prentora",
+      "Type": "Treasure",
+      "TypeID": "10",
+      "TreasureData": [
+        {
+            "TreasureId": "1",
+            "Name": "Gold Ring"
+        },
+        {
+            "TreasureId": "2",
+            "Name": "Perl Ring"
+        },
+        {
+            "TreasureId": "3",
+            "Name": "Training Staff"
+        },
+        {
+            "TreasureId": "4",
+            "Name": "Tutorial Sword"
+        }
+      ]
+    }
+  }

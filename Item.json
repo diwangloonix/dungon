@@ -1,0 +1,40 @@
+{
+    "Item": {
+      "ID": "12",
+      "Type": "Item",
+      "TypeID": "13",
+      "ItemData": [
+        {
+            "DropId": "1",
+            "Name": "Gold",
+            "rash": 10000
+        },
+        {
+            "DropId": "2",
+            "Name": "Card Boss",
+            "Meta": "Goblin's Card",
+            "For": "heal + 5%"
+        },
+        {
+            "DropId": "3",
+            "Name": "Wapone",
+            "Meta": "Gold Sword"
+        },
+        {
+            "DropId": "4",
+            "Name": "Equip",
+            "Meta": "Gold Ring"
+        },
+        {
+            "DropId": "5",
+            "Name": "Equip",
+            "Meta": "Perl Ring"
+        },
+        {
+            "DropId": "6",
+            "Name": "Equip",
+            "Meta": "Training Clow"
+        }
+      ]
+    }
+  }
