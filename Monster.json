@@ -1,69 +1,67 @@
-{
-    "Monster": {
-        "ID": "4",
-        "Type": "Monster",
-        "TypeID": "",
-        "MonsterData":
-        [
-            {
-            "name": "Knight Skull",
-            "meta": "Large aberration, lawful evil",
-            "Armor Class": "17 (Natural Armor)",
-            "Hit Points": "135",
-            "Speed": " 12 ",
-            "STR": "21",
-            "DEX": "9",
-            "CON": "15",
-            "INT": "18",
-            "WIS": "15",
-            "CHA": "18",
-            "Challenge": "10 (5,900 XP)",
-            "img_url": ""
+[
+    {
+        "ID": 4,
+        "TypeID": 0,
+        "Element": 0,
+        "name": "Knight Skull",
+        "Title": "",
+        "Level": "",
+        "HP": "",
+        "MP": "",
+        "ATK": "",
+        "DEF": "",
+        "SPD": "",
+        "EXP": "",
+        "DROP" : [
+          {
+            "ItemID": 1,
+            "Rate": "70%"
           },
           {
-            "name": "Smile",
-            "meta": "Liquid Metal",
-            "Armor Class": "10 (Natural Armor)",
-            "Hit Points": "88",
-            "Speed": " 5 ",
-            "STR": "16",
-            "DEX": "6",
-            "CON": "14",
-            "INT": "12",
-            "WIS": "15",
-            "CHA": "18",
-            "Challenge": "10 (5,900 XP)",
-            "img_url": ""
-          },
-          {
-            "name": "Beby Dragon",
-            "meta": "Burn",
-            "Armor Class": "17 (Natural Armor)",
-            "Hit Points": "135",
-            "Speed": " 10 ",
-            "STR": "21",
-            "DEX": "9",
-            "CON": "15",
-            "INT": "18",
-            "WIS": "15",
-            "CHA": "18",
-            "Challenge": "10 (5,900 XP)",
-            "img_url": ""
-          },{
-            "name": "Mushrooms",
-            "meta": "Evil Poison",
-            "Armor Class": "12 (Natural Armor)",
-            "Hit Points": "93",
-            "Speed": " 9 ",
-            "STR": "18",
-            "DEX": "12",
-            "CON": "10",
-            "INT": "14",
-            "WIS": "10",
-            "CHA": "10",
-            "Challenge": "10 (5,900 XP)",
-            "img_url": ""
+            "ItemID": 1,
+            "Rate": "70%"
           }
         ]
-    }
-}
+    },
+    {
+      "ID": 4,
+      "TypeID": 0,
+      "Element": 0,
+      "name": "Knight Skull",
+      "Title": "",
+      "Level": "",
+      "HP": "",
+      "MP": "",
+      "ATK": "",
+      "DEF": "",
+      "SPD": "",
+      "EXP": "",
+      "DROP" : [
+        {
+          "ItemID": 1,
+          "Rate": "70%"
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "TypeID": 0,
+      "Element": 0,
+      "name": "Knight Skull",
+      "Title": "",
+      "Level": "",
+      "HP": "",
+      "MP": "",
+      "ATK": "",
+      "DEF": "",
+      "SPD": "",
+      "EXP": "",
+      "DROP" : [
+        {
+          "ItemID": 1,
+          "Rate": "70%"
+        }
+      ]
+  }
+
+]
