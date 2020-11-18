@@ -1,67 +1,195 @@
 [
     {
-        "ID": 4,
+        "ID": 1,
         "TypeID": 0,
-        "Element": 0,
-        "name": "Knight Skull",
+        "Element": "Fire",
+        "Name": "Fire Behemoth",
         "Title": "",
-        "Level": "",
-        "HP": "",
-        "MP": "",
-        "ATK": "",
-        "DEF": "",
-        "SPD": "",
-        "EXP": "",
+        "Level": "86",
+        "HP": 150000,
+        "MP": 50000,
+        "ATK": 100,
+        "DEF": 150,
+        "SPD": 20,
+        "EXP": 2000000,
         "DROP" : [
           {
             "ItemID": 1,
-            "Rate": "70%"
+            "Rate": "20%"
           },
           {
-            "ItemID": 1,
-            "Rate": "70%"
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
           }
         ]
     },
     {
-      "ID": 4,
-      "TypeID": 0,
-      "Element": 0,
-      "name": "Knight Skull",
-      "Title": "",
-      "Level": "",
-      "HP": "",
-      "MP": "",
-      "ATK": "",
-      "DEF": "",
-      "SPD": "",
-      "EXP": "",
-      "DROP" : [
-        {
-          "ItemID": 1,
-          "Rate": "70%"
-        }
-      ]
+        "ID": 2,
+        "TypeID": 0,
+        "Element": "Water",
+        "Name": "Fire Behemoth",
+        "Title": "",
+        "Level": "86",
+        "HP": 150000,
+        "MP": 50000,
+        "ATK": 100,
+        "DEF": 150,
+        "SPD": 20,
+        "EXP": 2000000,
+        "DROP" : [
+          {
+            "ItemID": 1,
+            "Rate": "20%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ]
     },
     {
-      "ID": 4,
-      "TypeID": 0,
-      "Element": 0,
-      "name": "Knight Skull",
-      "Title": "",
-      "Level": "",
-      "HP": "",
-      "MP": "",
-      "ATK": "",
-      "DEF": "",
-      "SPD": "",
-      "EXP": "",
-      "DROP" : [
-        {
-          "ItemID": 1,
-          "Rate": "70%"
-        }
-      ]
+        "ID": 3,
+        "TypeID": 1,
+        "Element": "Earth",
+        "Name": "Barbarian Berserker",
+        "Title": "",
+        "Level": "60",
+        "HP": 99000,
+        "MP": 30000,
+        "ATK": 80,
+        "DEF": 50,
+        "SPD": 25,
+        "EXP": 1500000,
+        "DROP" : [
+          {
+            "ItemID": 2,
+            "Rate": "20%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ]
+    },
+    {
+        "ID": 4,
+        "TypeID": 1,
+        "Element": "Fire",
+        "Name": "Barbarian Berserker",
+        "Title": "",
+        "Level": "60",
+        "HP": 99000,
+        "MP": 30000,
+        "ATK": 80,
+        "DEF": 50,
+        "SPD": 25,
+        "EXP": 1500000,
+        "DROP" : [
+          {
+            "ItemID": 2,
+            "Rate": "20%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ]
+    },   
+    {
+        "ID": 5,
+        "TypeID": 2,
+        "Element": "Air",
+        "Name": "Dragonfly",
+        "Title": "",
+        "Level": "20",
+        "HP": 20000,
+        "MP": 1000,
+        "ATK": 21,
+        "DEF": 12,
+        "SPD": 5,
+        "EXP": 400000,
+        "DROP" : [
+          {
+            "ItemID": 5,
+            "Rate": "20%"
+          }
+        ]
+    },
+    {
+        "ID": 6,
+        "TypeID": 2,
+        "Element": "Earth",
+        "Name": "Skull Kight",
+        "Title": "",
+        "Level": "20",
+        "HP": 18000,
+        "MP": 1000,
+        "ATK": 20,
+        "DEF": 16,
+        "SPD": 5,
+        "EXP": 400000,
+        "DROP" : [
+          {
+            "ItemID": 7,
+            "Rate": "20%"
+          }
+        ]
+    },
+    {
+        "ID": 7,
+        "TypeID": 2,
+        "Element": "Earth",
+        "Name": "Emerald Mummy",
+        "Title": "",
+        "Level": "20",
+        "HP": 15000,
+        "MP": 1000,
+        "ATK": 25,
+        "DEF": 15,
+        "SPD": 5,
+        "EXP": 400000,
+        "DROP" : [
+          {
+            "ItemID": 8,
+            "Rate": "20%"
+          }
+        ]
+    },
+    {
+        "ID": 8,
+        "TypeID": 2,
+        "Element": "Water",
+        "Name": "Silver Shroom",
+        "Title": "",
+        "Level": "20",
+        "HP": 14000,
+        "MP": 1000,
+        "ATK": 15,
+        "DEF": 20,
+        "SPD": 5,
+        "EXP": 400000,
+        "DROP" : [
+          {
+            "ItemID": 3,
+            "Rate": "20%"
+          }
+        ]
   }
 
 ]

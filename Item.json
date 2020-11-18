@@ -1,40 +1,62 @@
-{
-    "Item": {
-      "ID": "12",
-      "Type": "Item",
-      "TypeID": "13",
-      "ItemData": [
-        {
-            "DropId": "1",
-            "Name": "Gold",
-            "rash": 10000
-        },
-        {
-            "DropId": "2",
-            "Name": "Card Boss",
-            "Meta": "Goblin's Card",
-            "For": "heal + 5%"
-        },
-        {
-            "DropId": "3",
-            "Name": "Wapone",
-            "Meta": "Gold Sword"
-        },
-        {
-            "DropId": "4",
-            "Name": "Equip",
-            "Meta": "Gold Ring"
-        },
-        {
-            "DropId": "5",
-            "Name": "Equip",
-            "Meta": "Perl Ring"
-        },
-        {
-            "DropId": "6",
-            "Name": "Equip",
-            "Meta": "Training Clow"
-        }
-      ]
+[
+    {
+        "ID": 1,
+        "TypeID": "Weapon",
+        "Name": "Battle Fury",
+        "Rarity": 5
+    },
+    {
+        "ID": 2,
+        "TypeID": "Weapon",
+        "Name": "Battle Fury",
+        "Rarity": 5
+    },
+    {
+        "ID": 3,
+        "TypeID": "Accessory",
+        "Name": "Ring Of Protection",
+        "Rarity": 1
+    },
+    {
+        "ID": 4,
+        "TypeID": "Material",
+        "Name": "Iron Branch",
+        "Rarity": 1
+    },
+    {
+        "ID": 5,
+        "TypeID": "Off-hand",
+        "Name": "Gauntlets of Strength",
+        "Rarity": 1
+    },
+    {
+        "ID": 6,
+        "TypeID": "Helmet",
+        "Name": "Circlet",
+        "Rarity": 1
+    },
+    {
+        "ID": 7,
+        "TypeID": "Armor",
+        "Name": "Mantel of Intelligence",
+        "Rarity": 1
+    },
+    {
+        "ID": 8,
+        "TypeID": "Boots",
+        "Name": "Boots of Speed",
+        "Rarity": 1
+    },
+    {
+        "ID": 9,
+        "TypeID": "Gold",
+        "Name": "Gold",
+        "Rarity": 0
+    },
+    {
+        "ID": 10,
+        "TypeID": "Diamond",
+        "Name": "Diamond",
+        "Rarity": 0
     }
-  }
+]

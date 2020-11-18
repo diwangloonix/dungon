@@ -1,26 +1,112 @@
-{
-    "Treasure": {
-      "ID": "11",
-      "Region": "Prentora",
-      "Type": "Treasure",
-      "TypeID": "10",
-      "TreasureData": [
-        {
-            "TreasureId": "1",
-            "Name": "Gold Ring"
-        },
-        {
-            "TreasureId": "2",
-            "Name": "Perl Ring"
-        },
-        {
-            "TreasureId": "3",
-            "Name": "Training Staff"
-        },
-        {
-            "TreasureId": "4",
-            "Name": "Tutorial Sword"
-        }
-      ]
+
+[
+    {
+        "ID": 1,
+        "TypeID": 0,
+        "Drop": [
+          {
+            "ItemID": 4,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ] 
+    },
+    {
+        "ID": 2,
+        "TypeID": 1,
+        "Drop": [
+          {
+            "ItemID": 3,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 4,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ] 
+    },
+    {
+        "ID": 3,
+        "TypeID": 2,
+        "Drop": [
+          {
+            "ItemID": 3,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 4,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 6,
+            "Rate": "50%"
+          },
+          {
+            "ItemID": 7,
+            "Rate": "50%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ] 
+    },
+    {
+        "ID": 4,
+        "TypeID": 3,
+        "Drop": [
+          {
+            "ItemID": 3,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 4,
+            "Rate": "70%"
+          },
+          {
+            "ItemID": 6,
+            "Rate": "50%"
+          },
+          {
+            "ItemID": 7,
+            "Rate": "50%"
+          },
+          {
+            "ItemID": 1,
+            "Rate": "20%"
+          },
+          {
+            "ItemID": 2,
+            "Rate": "20%"
+          },
+          {
+            "ItemID": 9,
+            "Rate": "90%"
+          },
+          {
+            "ItemID": 10,
+            "Rate": "90%"
+          }
+        ] 
     }
-  }
+  
+]
