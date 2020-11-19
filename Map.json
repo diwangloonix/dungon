@@ -1,85 +1,85 @@
 [
      {
-          "ID": 1,
-          "Region": "Prontera",
-          "Name": "Prontera West Gate",
-          "MonsterData": [
+          "id": 1,
+          "region": "Prontera",
+          "name": "Prontera West Gate",
+          "monsterData": [
                {
-                    "ID": 1,
-                    "TypeID": 0,
+                    "id": 1,
+                    "typeID": 0,
+                    "amount": 1
+               },
+               {
+                    "id": 3,
+                    "typeID": 1,
                     "Amount": 1
                },
                {
-                    "ID": 3,
-                    "TypeID": 1,
-                    "Amount": 1
+                    "id": 5,
+                    "typeID": 2,
+                    "amount": 14
                },
                {
-                    "ID": 5,
-                    "TypeID": 2,
-                    "Amount": 14
+                    "id": 6,
+                    "typeID": 2,
+                    "amount": 4
                },
                {
-                    "ID": 6,
-                    "TypeID": 2,
-                    "Amount": 4
-               },
-               {
-                    "ID": 3,
-                    "TypeID": 2,
-                    "Amount": 3
+                    "id": 3,
+                    "typeID": 2,
+                    "amount": 3
                }
           ],
-          "TreasureData": [
+          "treasureData": [
                {
-                    "ID": 1,
-                    "TypeID": 0
+                    "id": 1,
+                    "typeID": 0
                },
                {
-                    "ID": 3,
-                    "TypeID": 2
+                    "id": 3,
+                    "typeID": 2
                }
           ]
      },
      {
-          "ID": 2,
-          "Region": "Prontera",
-          "Name": "Prontera South Gate",
-          "MonsterData": [
+          "id": 2,
+          "region": "Prontera",
+          "name": "Prontera South Gate",
+          "monsterData": [
                {
-                    "ID": 2,
-                    "TypeID": 0,
-                    "Amount": 1
+                    "id": 2,
+                    "typeID": 0,
+                    "amount": 1
                },
                {
-                    "ID": 4,
-                    "TypeID": 1,
-                    "Amount": 1
+                    "id": 4,
+                    "typeID": 1,
+                    "amount": 1
                },
                {
-                    "ID": 8,
-                    "TypeID": 2,
-                    "Amount": 14
+                    "id": 8,
+                    "typeID": 2,
+                    "amount": 14
                },
                {
-                    "ID": 6,
-                    "TypeID": 2,
-                    "Amount": 4
+                    "id": 6,
+                    "typeID": 2,
+                    "amount": 4
                },
                {
-                    "ID": 3,
-                    "TypeID": 2,
-                    "Amount": 3
+                    "id": 3,
+                    "typeID": 2,
+                    "amount": 3
                }
           ],
-          "TreasureData": [
+          "treasureData": [
                {
-                    "ID": 2,
-                    "TypeID": 1
+                    "id": 2,
+                    "typeID": 1
                },
                {
-                    "ID": 3,
-                    "TypeID": 2
+                    "id": 3,
+                    "typeID": 2
                }
           ]
      }

@@ -1,193 +1,193 @@
 [
     {
-        "ID": 1,
-        "TypeID": 0,
-        "Element": "Fire",
-        "Name": "Fire Behemoth",
-        "Title": "",
-        "Level": "86",
-        "HP": 150000,
-        "MP": 50000,
-        "ATK": 100,
-        "DEF": 150,
-        "SPD": 20,
-        "EXP": 2000000,
-        "DROP" : [
+        "id": 1,
+        "typeID": 0,
+        "element": "Fire",
+        "name": "Fire Behemoth",
+        "title": "",
+        "level": "86",
+        "hp": 150000,
+        "mp": 50000,
+        "atk": 100,
+        "def": 150,
+        "spd": 20,
+        "exp": 2000000,
+        "drop" : [
           {
-            "ItemID": 1,
-            "Rate": "20%"
+            "itemID": 1,
+            "rate": "20%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ]
     },
     {
-        "ID": 2,
-        "TypeID": 0,
-        "Element": "Water",
-        "Name": "Fire Behemoth",
-        "Title": "",
-        "Level": "86",
-        "HP": 150000,
-        "MP": 50000,
-        "ATK": 100,
-        "DEF": 150,
-        "SPD": 20,
-        "EXP": 2000000,
-        "DROP" : [
+        "id": 2,
+        "typeID": 0,
+        "element": "Water",
+        "name": "Fire Behemoth",
+        "title": "",
+        "level": "86",
+        "hp": 150000,
+        "mp": 50000,
+        "atk": 100,
+        "def": 150,
+        "spd": 20,
+        "exp": 2000000,
+        "drop" : [
           {
-            "ItemID": 1,
-            "Rate": "20%"
+            "itemID": 1,
+            "rate": "20%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ]
     },
     {
-        "ID": 3,
-        "TypeID": 1,
-        "Element": "Earth",
-        "Name": "Barbarian Berserker",
-        "Title": "",
-        "Level": "60",
-        "HP": 99000,
-        "MP": 30000,
-        "ATK": 80,
-        "DEF": 50,
-        "SPD": 25,
-        "EXP": 1500000,
-        "DROP" : [
+        "id": 3,
+        "typeID": 1,
+        "element": "Earth",
+        "name": "Barbarian Berserker",
+        "title": "",
+        "level": "60",
+        "hp": 99000,
+        "mp": 30000,
+        "atk": 80,
+        "def": 50,
+        "spd": 25,
+        "exp": 1500000,
+        "drop" : [
           {
-            "ItemID": 2,
-            "Rate": "20%"
+            "itemID": 2,
+            "rate": "20%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ]
     },
     {
-        "ID": 4,
-        "TypeID": 1,
-        "Element": "Fire",
-        "Name": "Barbarian Berserker",
-        "Title": "",
-        "Level": "60",
-        "HP": 99000,
-        "MP": 30000,
-        "ATK": 80,
-        "DEF": 50,
-        "SPD": 25,
-        "EXP": 1500000,
-        "DROP" : [
+        "id": 4,
+        "typeID": 1,
+        "element": "Fire",
+        "name": "Barbarian Berserker",
+        "title": "",
+        "level": "60",
+        "hp": 99000,
+        "mp": 30000,
+        "atk": 80,
+        "def": 50,
+        "spd": 25,
+        "exp": 1500000,
+        "drop" : [
           {
-            "ItemID": 2,
-            "Rate": "20%"
+            "itemID": 2,
+            "rate": "20%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ]
     },   
     {
-        "ID": 5,
-        "TypeID": 2,
-        "Element": "Air",
-        "Name": "Dragonfly",
-        "Title": "",
-        "Level": "20",
-        "HP": 20000,
-        "MP": 1000,
-        "ATK": 21,
-        "DEF": 12,
-        "SPD": 5,
-        "EXP": 400000,
-        "DROP" : [
+        "id": 5,
+        "typeID": 2,
+        "element": "Air",
+        "name": "Dragonfly",
+        "title": "",
+        "level": "20",
+        "hp": 20000,
+        "mp": 1000,
+        "atk": 21,
+        "def": 12,
+        "spd": 5,
+        "exp": 400000,
+        "drpp" : [
           {
-            "ItemID": 5,
-            "Rate": "20%"
+            "itemID": 5,
+            "rate": "20%"
           }
         ]
     },
     {
-        "ID": 6,
-        "TypeID": 2,
-        "Element": "Earth",
-        "Name": "Skull Kight",
-        "Title": "",
-        "Level": "20",
-        "HP": 18000,
-        "MP": 1000,
-        "ATK": 20,
-        "DEF": 16,
-        "SPD": 5,
-        "EXP": 400000,
-        "DROP" : [
+        "id": 6,
+        "typeID": 2,
+        "element": "Earth",
+        "name": "Skull Kight",
+        "title": "",
+        "level": "20",
+        "hp": 18000,
+        "mp": 1000,
+        "atk": 20,
+        "def": 16,
+        "spd": 5,
+        "exp": 400000,
+        "drop" : [
           {
-            "ItemID": 7,
-            "Rate": "20%"
+            "itemID": 7,
+            "rate": "20%"
           }
         ]
     },
     {
-        "ID": 7,
-        "TypeID": 2,
-        "Element": "Earth",
-        "Name": "Emerald Mummy",
-        "Title": "",
-        "Level": "20",
-        "HP": 15000,
-        "MP": 1000,
-        "ATK": 25,
-        "DEF": 15,
-        "SPD": 5,
-        "EXP": 400000,
-        "DROP" : [
+        "id": 7,
+        "typeID": 2,
+        "element": "Earth",
+        "name": "Emerald Mummy",
+        "title": "",
+        "level": "20",
+        "hp": 15000,
+        "mp": 1000,
+        "atk": 25,
+        "def": 15,
+        "spd": 5,
+        "exp": 400000,
+        "drop" : [
           {
-            "ItemID": 8,
-            "Rate": "20%"
+            "itemID": 8,
+            "rate": "20%"
           }
         ]
     },
     {
-        "ID": 8,
-        "TypeID": 2,
-        "Element": "Water",
-        "Name": "Silver Shroom",
-        "Title": "",
-        "Level": "20",
-        "HP": 14000,
-        "MP": 1000,
-        "ATK": 15,
-        "DEF": 20,
-        "SPD": 5,
-        "EXP": 400000,
-        "DROP" : [
+        "id": 8,
+        "typeID": 2,
+        "element": "Water",
+        "name": "Silver Shroom",
+        "title": "",
+        "level": "20",
+        "hp": 14000,
+        "mp": 1000,
+        "atk": 15,
+        "def": 20,
+        "spd": 5,
+        "exp": 400000,
+        "drop" : [
           {
-            "ItemID": 3,
-            "Rate": "20%"
+            "itemID": 3,
+            "rate": "20%"
           }
         ]
   }

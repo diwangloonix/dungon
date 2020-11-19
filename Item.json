@@ -1,62 +1,62 @@
 [
     {
-        "ID": 1,
-        "TypeID": "Weapon",
-        "Name": "Battle Fury",
-        "Rarity": 5
+        "id": 1,
+        "typeID": "Weapon",
+        "name": "Battle Fury",
+        "rarity": 5
     },
     {
-        "ID": 2,
-        "TypeID": "Weapon",
-        "Name": "Battle Fury",
-        "Rarity": 5
+        "id": 2,
+        "typeID": "Weapon",
+        "name": "Battle Fury",
+        "rarity": 5
     },
     {
-        "ID": 3,
-        "TypeID": "Accessory",
-        "Name": "Ring Of Protection",
-        "Rarity": 1
+        "id": 3,
+        "typeID": "Accessory",
+        "name": "Ring Of Protection",
+        "rarity": 1
     },
     {
-        "ID": 4,
-        "TypeID": "Material",
-        "Name": "Iron Branch",
-        "Rarity": 1
+        "id": 4,
+        "typeID": "Material",
+        "name": "Iron Branch",
+        "rarity": 1
     },
     {
-        "ID": 5,
-        "TypeID": "Off-hand",
-        "Name": "Gauntlets of Strength",
-        "Rarity": 1
+        "id": 5,
+        "typeID": "Off-hand",
+        "name": "Gauntlets of Strength",
+        "rarity": 1
     },
     {
-        "ID": 6,
-        "TypeID": "Helmet",
-        "Name": "Circlet",
-        "Rarity": 1
+        "id": 6,
+        "typeID": "Helmet",
+        "name": "Circlet",
+        "rarity": 1
     },
     {
-        "ID": 7,
-        "TypeID": "Armor",
-        "Name": "Mantel of Intelligence",
-        "Rarity": 1
+        "id": 7,
+        "typeID": "Armor",
+        "name": "Mantel of Intelligence",
+        "rarity": 1
     },
     {
-        "ID": 8,
-        "TypeID": "Boots",
-        "Name": "Boots of Speed",
-        "Rarity": 1
+        "id": 8,
+        "typeID": "Boots",
+        "name": "Boots of Speed",
+        "rarity": 1
     },
     {
-        "ID": 9,
-        "TypeID": "Gold",
-        "Name": "Gold",
-        "Rarity": 0
+        "id": 9,
+        "typeID": "Gold",
+        "name": "Gold",
+        "rarity": 0
     },
     {
-        "ID": 10,
-        "TypeID": "Diamond",
-        "Name": "Diamond",
-        "Rarity": 0
+        "id": 10,
+        "typeID": "Diamond",
+        "name": "Diamond",
+        "rarity": 0
     }
 ]

@@ -1,110 +1,110 @@
 
 [
     {
-        "ID": 1,
-        "TypeID": 0,
-        "Drop": [
+        "id": 1,
+        "typeID": 0,
+        "drop": [
           {
-            "ItemID": 4,
-            "Rate": "70%"
+            "itemID": 4,
+            "rate": "70%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ] 
     },
     {
-        "ID": 2,
-        "TypeID": 1,
-        "Drop": [
+        "id": 2,
+        "typeID": 1,
+        "drop": [
           {
-            "ItemID": 3,
-            "Rate": "70%"
+            "itemID": 3,
+            "rate": "70%"
           },
           {
-            "ItemID": 4,
-            "Rate": "70%"
+            "itemID": 4,
+            "rate": "70%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
             "ItemID": 10,
-            "Rate": "90%"
+            "rate": "90%"
           }
         ] 
     },
     {
-        "ID": 3,
-        "TypeID": 2,
-        "Drop": [
+        "id": 3,
+        "typeID": 2,
+        "drop": [
           {
-            "ItemID": 3,
-            "Rate": "70%"
+            "itemID": 3,
+            "rate": "70%"
           },
           {
-            "ItemID": 4,
-            "Rate": "70%"
+            "itemID": 4,
+            "rate": "70%"
           },
           {
-            "ItemID": 6,
-            "Rate": "50%"
+            "itemID": 6,
+            "rate": "50%"
           },
           {
-            "ItemID": 7,
-            "Rate": "50%"
+            "itemID": 7,
+            "rate": "50%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ] 
     },
     {
-        "ID": 4,
-        "TypeID": 3,
-        "Drop": [
+        "id": 4,
+        "typeID": 3,
+        "drop": [
           {
-            "ItemID": 3,
-            "Rate": "70%"
+            "itemID": 3,
+            "rate": "70%"
           },
           {
-            "ItemID": 4,
-            "Rate": "70%"
+            "itemID": 4,
+            "rate": "70%"
           },
           {
-            "ItemID": 6,
-            "Rate": "50%"
+            "itemID": 6,
+            "rate": "50%"
           },
           {
-            "ItemID": 7,
-            "Rate": "50%"
+            "itemID": 7,
+            "rate": "50%"
           },
           {
-            "ItemID": 1,
-            "Rate": "20%"
+            "itemID": 1,
+            "rate": "20%"
           },
           {
-            "ItemID": 2,
-            "Rate": "20%"
+            "itemID": 2,
+            "rate": "20%"
           },
           {
-            "ItemID": 9,
-            "Rate": "90%"
+            "itemID": 9,
+            "rate": "90%"
           },
           {
-            "ItemID": 10,
-            "Rate": "90%"
+            "itemID": 10,
+            "rate": "90%"
           }
         ] 
     }
