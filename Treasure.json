@@ -1,112 +1,114 @@
+{
 
-[
-    {
-        "id": 1,
-        "typeID": 0,
-        "drop": [
-          {
-            "itemID": 4,
-            "rate": "70%"
-          },
-          {
-            "itemID": 9,
-            "rate": "90%"
-          },
-          {
-            "itemID": 10,
-            "rate": "90%"
-          }
-        ] 
-    },
-    {
-        "id": 2,
-        "typeID": 1,
-        "drop": [
-          {
-            "itemID": 3,
-            "rate": "70%"
-          },
-          {
-            "itemID": 4,
-            "rate": "70%"
-          },
-          {
-            "itemID": 9,
-            "rate": "90%"
-          },
-          {
-            "itemID": 10,
-            "rate": "90%"
-          }
-        ] 
-    },
-    {
-        "id": 3,
-        "typeID": 2,
-        "drop": [
-          {
-            "itemID": 3,
-            "rate": "70%"
-          },
-          {
-            "itemID": 4,
-            "rate": "70%"
-          },
-          {
-            "itemID": 6,
-            "rate": "50%"
-          },
-          {
-            "itemID": 7,
-            "rate": "50%"
-          },
-          {
-            "itemID": 9,
-            "rate": "90%"
-          },
-          {
-            "itemID": 10,
-            "rate": "90%"
-          }
-        ] 
-    },
-    {
-        "id": 4,
-        "typeID": 3,
-        "drop": [
-          {
-            "itemID": 3,
-            "rate": "70%"
-          },
-          {
-            "itemID": 4,
-            "rate": "70%"
-          },
-          {
-            "itemID": 6,
-            "rate": "50%"
-          },
-          {
-            "itemID": 7,
-            "rate": "50%"
-          },
-          {
-            "itemID": 1,
-            "rate": "20%"
-          },
-          {
-            "itemID": 2,
-            "rate": "20%"
-          },
-          {
-            "itemID": 9,
-            "rate": "90%"
-          },
-          {
-            "itemID": 10,
-            "rate": "90%"
-          }
-        ] 
-    }
-  
-]
+  "treasure": [
+      {
+          "id": 1,
+          "typeID": 0,
+          "drop": [
+            {
+              "itemID": 4,
+              "rate": "70%"
+            },
+            {
+              "itemID": 9,
+              "rate": "90%"
+            },
+            {
+              "itemID": 10,
+              "rate": "90%"
+            }
+          ] 
+      },
+      {
+          "id": 2,
+          "typeID": 1,
+          "drop": [
+            {
+              "itemID": 3,
+              "rate": "70%"
+            },
+            {
+              "itemID": 4,
+              "rate": "70%"
+            },
+            {
+              "itemID": 9,
+              "rate": "90%"
+            },
+            {
+              "itemID": 10,
+              "rate": "90%"
+            }
+          ] 
+      },
+      {
+          "id": 3,
+          "typeID": 2,
+          "drop": [
+            {
+              "itemID": 3,
+              "rate": "70%"
+            },
+            {
+              "itemID": 4,
+              "rate": "70%"
+            },
+            {
+              "itemID": 6,
+              "rate": "50%"
+            },
+            {
+              "itemID": 7,
+              "rate": "50%"
+            },
+            {
+              "itemID": 9,
+              "rate": "90%"
+            },
+            {
+              "itemID": 10,
+              "rate": "90%"
+            }
+          ] 
+      },
+      {
+          "id": 4,
+          "typeID": 3,
+          "drop": [
+            {
+              "itemID": 3,
+              "rate": "70%"
+            },
+            {
+              "itemID": 4,
+              "rate": "70%"
+            },
+            {
+              "itemID": 6,
+              "rate": "50%"
+            },
+            {
+              "itemID": 7,
+              "rate": "50%"
+            },
+            {
+              "itemID": 1,
+              "rate": "20%"
+            },
+            {
+              "itemID": 2,
+              "rate": "20%"
+            },
+            {
+              "itemID": 9,
+              "rate": "90%"
+            },
+            {
+              "itemID": 10,
+              "rate": "90%"
+            }
+          ] 
+      }
+    
+  ]
+}

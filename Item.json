@@ -1,62 +1,65 @@
-[
-    {
-        "id": 1,
-        "typeID": "Weapon",
-        "name": "Battle Fury",
-        "rarity": 5
-    },
-    {
-        "id": 2,
-        "typeID": "Weapon",
-        "name": "Battle Fury",
-        "rarity": 5
-    },
-    {
-        "id": 3,
-        "typeID": "Accessory",
-        "name": "Ring Of Protection",
-        "rarity": 1
-    },
-    {
-        "id": 4,
-        "typeID": "Material",
-        "name": "Iron Branch",
-        "rarity": 1
-    },
-    {
-        "id": 5,
-        "typeID": "Off-hand",
-        "name": "Gauntlets of Strength",
-        "rarity": 1
-    },
-    {
-        "id": 6,
-        "typeID": "Helmet",
-        "name": "Circlet",
-        "rarity": 1
-    },
-    {
-        "id": 7,
-        "typeID": "Armor",
-        "name": "Mantel of Intelligence",
-        "rarity": 1
-    },
-    {
-        "id": 8,
-        "typeID": "Boots",
-        "name": "Boots of Speed",
-        "rarity": 1
-    },
-    {
-        "id": 9,
-        "typeID": "Gold",
-        "name": "Gold",
-        "rarity": 0
-    },
-    {
-        "id": 10,
-        "typeID": "Diamond",
-        "name": "Diamond",
-        "rarity": 0
-    }
-]
+{
+    "item": [
+        {
+            "id": 1,
+            "typeID": "Weapon",
+            "name": "Battle Fury",
+            "rarity": 5
+        },
+        {
+            "id": 2,
+            "typeID": "Weapon",
+            "name": "Battle Fury",
+            "rarity": 5
+        },
+        {
+            "id": 3,
+            "typeID": "Accessory",
+            "name": "Ring Of Protection",
+            "rarity": 1
+        },
+        {
+            "id": 4,
+            "typeID": "Material",
+            "name": "Iron Branch",
+            "rarity": 1
+        },
+        {
+            "id": 5,
+            "typeID": "Off-hand",
+            "name": "Gauntlets of Strength",
+            "rarity": 1
+        },
+        {
+            "id": 6,
+            "typeID": "Helmet",
+            "name": "Circlet",
+            "rarity": 1
+        },
+        {
+            "id": 7,
+            "typeID": "Armor",
+            "name": "Mantel of Intelligence",
+            "rarity": 1
+        },
+        {
+            "id": 8,
+            "typeID": "Boots",
+            "name": "Boots of Speed",
+            "rarity": 1
+        },
+        {
+            "id": 9,
+            "typeID": "Gold",
+            "name": "Gold",
+            "rarity": 0
+        },
+        {
+            "id": 10,
+            "typeID": "Diamond",
+            "name": "Diamond",
+            "rarity": 0
+        }
+    ]
+
+}
